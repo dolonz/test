@@ -1,0 +1,75 @@
+body {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	background: #F4F6FF;
+	margin: auto;
+	height: 100%;
+	overflow-y: hidden;
+	overflow-x: hidden;
+	z-index: -1;
+    font-family: Montserrat;
+	}
+	
+.img1{
+position: absolute;
+left: 68%;
+right: -26.04%;
+top: 0;
+bottom: -7.62%;
+}
+.img2 {
+position: absolute;
+left: -0.5%;
+top: 101.76%;
+bottom: -103.52%;
+}
+.img3 {
+position: absolute;
+left: 36.5%;
+margin-top:9%;
+}
+
+.titre {
+    margin-top: -100px;
+    margin-left: 22%;
+    font-family: Montserrat;
+    color: white;
+    font-size:40px;
+    width: 100%;
+}
+.form{
+    position: absolute;
+    left: 40.79%;
+    margin-top: 20%;
+
+}
+input {
+    color: #333;
+    font-size: 1rem;
+    padding: 1.5rem 5rem;
+    border-radius: 2.5rem;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    margin-top: 20px;
+    display: block;
+    border-bottom: 0.3rem solid transparent;
+    transition: all 0.3s;
+    font-family: Montserrat;
+    margin-left: -15%;
+    
+  }
+  li {
+      text-align;
+  }
+
+  ul {
+    list-style-type: none;
+    font-family: Montserrat;
+}
+
+.register {
+    background: #10375C;
+    color: white;
+    margin-left: 3%;
+}
